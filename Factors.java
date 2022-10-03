@@ -1,4 +1,4 @@
-Write a program to print all the factors of a number other than 1 and the number itself.
+/*Write a program to print all the factors of a number other than 1 and the number itself.
 Input Format :
 A single integer, n
 Output Format :
@@ -17,6 +17,7 @@ Sample Output 2 :
 
 Explanation of Sample Output 2 :
 No output as 11 is prime having factors as 1 and 11 only
+*/
 
 import java.util.Scanner;
 public class Solution {
